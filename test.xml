@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+	<classes>
+		<class id="1">
+			<student>mike</student>
+		</class>
+		<class id="2">
+			<student>lisa</student>
+		</class>
+	</classes>
+</school>

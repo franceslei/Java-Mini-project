@@ -2,8 +2,6 @@
 //create two sides, send and receive, they can run at the same time, so need two threads, each thread control one side
 //java SE packages used in this program: thread, io, net, exception. UDP protocol 
 
-
-
 package Mini_project;
 
 import java.io.BufferedReader;
@@ -11,8 +9,6 @@ import java.io.InputStreamReader;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
-import java.net.SocketException;
-
 
 
 //thread to send message
